@@ -1,11 +1,7 @@
 # CHANGELOG
--changed tentacles of silver and jet
-
--pseudo anims fixed
-
--added alt silver
-
--OV idle anim fixed
+-added lucy
+-changed left and right pose and added tweaks to lucy
+-changed sing length anims of all characters from 4 to 6
 
 #  PLEASE COPY THE LINK OF THE CHARACTER FOLDER YOU WANT THEN PASTE IT INTO THE WEBSITE BELOW TO DOWNLOAD IT 
 
