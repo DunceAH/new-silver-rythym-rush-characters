@@ -1,20 +1,20 @@
 # CHANGELOG
 
--added lucy
+-reorganized folders
 
--changed left and right pose and added tweaks to lucy
+-changed sing length from 6 to 4 on the character json (its way smoother!!)
 
--changed sing length anims of all characters from 4 to 6
+-changed Pseudo's up arrow pose
 
-#  PLEASE COPY THE LINK OF THE CHARACTER FOLDER YOU WANT THEN PASTE IT INTO THE WEBSITE BELOW TO DOWNLOAD IT 
+-made animation tweaks to silver and windy silver
 
-https://minhaskamal.github.io/DownGit/#/home
+-made small tweak to OV idle
 
 #  THE CHARACTER JSONS ONLY WORK WITH THE LATEST VERSION OF PSYCH ENGINE
 
 Uhh so I messed up the character proportions in adobe animate so they are way bigger than they should be. I changed their scale to "0.8" to make them size of normal fnf characters.
 
-download the lua script file and drop it into the data chart folder of your song for silvers death anim
+download the lua script file and drop it into the data chart folder of your song (or stage lua scrip) for silvers unique death anim
 
 
 

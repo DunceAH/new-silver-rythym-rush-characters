@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WINDYjet_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JET idle windy0000" x="5" y="5" width="739" height="827" frameX="0" frameY="-23" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0001" x="5" y="5" width="739" height="827" frameX="0" frameY="-23" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0002" x="749" y="5" width="778" height="835" frameX="0" frameY="-15" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0003" x="1532" y="5" width="780" height="844" frameX="0" frameY="-6" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0004" x="2317" y="5" width="752" height="844" frameX="0" frameY="-6" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0005" x="3074" y="5" width="759" height="846" frameX="0" frameY="-4" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0006" x="5" y="856" width="792" height="846" frameX="0" frameY="-4" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0007" x="802" y="856" width="790" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0008" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0009" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0010" x="2365" y="856" width="796" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0011" x="802" y="856" width="790" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0012" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0013" x="3166" y="856" width="791" height="843" frameX="0" frameY="-7" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0014" x="5" y="1707" width="824" height="843" frameX="0" frameY="-7" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0015" x="834" y="1707" width="809" height="850" frameX="0" frameY="0" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0016" x="1648" y="1707" width="775" height="850" frameX="0" frameY="0" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0017" x="1648" y="1707" width="775" height="850" frameX="0" frameY="0" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0018" x="2428" y="1707" width="802" height="849" frameX="0" frameY="-1" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0019" x="3235" y="1707" width="797" height="849" frameX="0" frameY="-1" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0020" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0021" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0022" x="2365" y="856" width="796" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0023" x="802" y="856" width="790" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0024" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+	<SubTexture name="JET idle windy0025" x="1597" y="856" width="763" height="845" frameX="0" frameY="-5" frameWidth="824" frameHeight="850"/>
+</TextureAtlas>

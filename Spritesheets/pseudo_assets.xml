@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pseudo_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PSEUDO down0000" x="1" y="1" width="640" height="721" frameX="-39" frameY="-52" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0001" x="1" y="1" width="640" height="721" frameX="-39" frameY="-52" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0002" x="642" y="1" width="660" height="753" frameX="-15" frameY="-20" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0003" x="642" y="1" width="660" height="753" frameX="-15" frameY="-20" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0004" x="1303" y="1" width="661" height="760" frameX="-10" frameY="-13" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0005" x="1303" y="1" width="661" height="760" frameX="-10" frameY="-13" frameWidth="683" frameHeight="773"/>
+	<SubTexture name="PSEUDO down0006" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0007" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0008" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0009" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0010" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0011" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0012" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0013" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO down0014" x="1965" y="1" width="683" height="773"/>
+	<SubTexture name="PSEUDO idle0000" x="2649" y="1" width="699" height="915" frameX="-4" frameY="-30" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0001" x="2649" y="1" width="699" height="915" frameX="-4" frameY="-30" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0002" x="3349" y="1" width="703" height="913" frameX="0" frameY="-32" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0003" x="4053" y="1" width="693" height="919" frameX="-11" frameY="-26" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0004" x="4747" y="1" width="693" height="918" frameX="-11" frameY="-27" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0005" x="5441" y="1" width="679" height="934" frameX="-26" frameY="-11" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0006" x="6121" y="1" width="670" height="929" frameX="-35" frameY="-16" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0007" x="6792" y="1" width="665" height="940" frameX="-45" frameY="-5" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0008" x="7458" y="1" width="669" height="942" frameX="-37" frameY="-3" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0009" x="7458" y="1" width="669" height="942" frameX="-37" frameY="-3" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0010" x="1" y="944" width="672" height="944" frameX="-34" frameY="-1" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0011" x="1" y="944" width="672" height="944" frameX="-34" frameY="-1" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0012" x="674" y="944" width="654" height="945" frameX="-73" frameY="0" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0013" x="674" y="944" width="654" height="945" frameX="-73" frameY="0" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0014" x="1329" y="944" width="661" height="943" frameX="-59" frameY="-2" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0015" x="1991" y="944" width="661" height="939" frameX="-52" frameY="-6" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0016" x="2653" y="944" width="672" height="939" frameX="-39" frameY="-6" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0017" x="3326" y="944" width="672" height="941" frameX="-34" frameY="-4" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0018" x="3999" y="944" width="653" height="940" frameX="-61" frameY="-5" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0019" x="6792" y="1" width="665" height="940" frameX="-45" frameY="-5" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0020" x="7458" y="1" width="669" height="942" frameX="-37" frameY="-3" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0021" x="7458" y="1" width="669" height="942" frameX="-37" frameY="-3" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0022" x="1" y="944" width="672" height="944" frameX="-34" frameY="-1" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0023" x="1" y="944" width="672" height="944" frameX="-34" frameY="-1" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO idle0024" x="4653" y="944" width="665" height="940" frameX="-45" frameY="-5" frameWidth="727" frameHeight="945"/>
+	<SubTexture name="PSEUDO left0000" x="5319" y="944" width="786" height="914" frameX="0" frameY="0" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0001" x="5319" y="944" width="786" height="914" frameX="0" frameY="0" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0002" x="6106" y="944" width="732" height="913" frameX="-56" frameY="-1" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0003" x="6106" y="944" width="732" height="913" frameX="-56" frameY="-1" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0004" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0005" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0006" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0007" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0008" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0009" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0010" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0011" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0012" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0013" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO left0014" x="6839" y="944" width="715" height="904" frameX="-73" frameY="-10" frameWidth="788" frameHeight="914"/>
+	<SubTexture name="PSEUDO right0000" x="1" y="1890" width="647" height="927" frameX="-35" frameY="-16" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0001" x="1" y="1890" width="647" height="927" frameX="-35" frameY="-16" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0002" x="649" y="1890" width="685" height="936" frameX="0" frameY="-7" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0003" x="649" y="1890" width="685" height="936" frameX="0" frameY="-7" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0004" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0005" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0006" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0007" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0008" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0009" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0010" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0011" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0012" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0013" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO right0014" x="1335" y="1890" width="686" height="943" frameX="-3" frameY="0" frameWidth="689" frameHeight="943"/>
+	<SubTexture name="PSEUDO up0000" x="2022" y="1890" width="744" height="949" frameX="0" frameY="0" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0001" x="2022" y="1890" width="744" height="949" frameX="0" frameY="0" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0002" x="2767" y="1890" width="703" height="932" frameX="-76" frameY="-17" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0003" x="2767" y="1890" width="703" height="932" frameX="-76" frameY="-17" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0004" x="3471" y="1890" width="684" height="913" frameX="-92" frameY="-36" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0005" x="4156" y="1890" width="695" height="908" frameX="-82" frameY="-41" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0006" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0007" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0008" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0009" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0010" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0011" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0012" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0013" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+	<SubTexture name="PSEUDO up0014" x="4852" y="1890" width="711" height="905" frameX="-67" frameY="-44" frameWidth="779" frameHeight="949"/>
+</TextureAtlas>
