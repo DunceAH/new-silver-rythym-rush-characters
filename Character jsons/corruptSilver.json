@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "corruptSilver left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "corruptSilver right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "corruptSilver down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				45
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corruptSilver up0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "corruptSilver idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptSilver_assets",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "corruptSilver",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		20,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,5 +1,7 @@
 # CHANGELOG
 
+-MADE CORRUPTED SILVER!!
+
 -reorganized folders
 
 -changed sing length from 6 to 4 on the character json (its way smoother!!)
