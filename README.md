@@ -1,16 +1,8 @@
 # CHANGELOG
 
--MADE CORRUPTED SILVER!!
+-MADE SEMI CORRUPTED ALT!
 
--reorganized folders
-
--changed sing length from 6 to 4 on the character json (its way smoother!!)
-
--changed Pseudo's up arrow pose
-
--made animation tweaks to silver and windy silver
-
--made small tweak to OV idle
+-fixed sprite chipping for corrupted silver
 
 #  THE CHARACTER JSONS ONLY WORK WITH THE LATEST VERSION OF PSYCH ENGINE
 
