@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "semiCorrupt ALT left0"
+		},
+		{
+			"offsets": [
+				-98,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "semiCorrupt ALT right0"
+		},
+		{
+			"offsets": [
+				39,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "semiCorrupt ALT down0"
+		},
+		{
+			"offsets": [
+				26,
+				23
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "semiCorrupt ALT up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "semiCorrupt ALT idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/semiCorruptAlt_assets",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "corruptALT",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-30,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
