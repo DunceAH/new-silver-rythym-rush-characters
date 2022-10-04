@@ -45,6 +45,61 @@
 			"name": "HalfCorrupt ALT up0"
 		},
 		{
+			"loop": false,
+			"offsets": [
+				183,
+				-50
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "HalfCorrupt ALT LMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "HalfCorrupt ALT RMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-102
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "HalfCorrupt ALT DMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "HalfCorrupt ALT UMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "HalfCorrupt ALT RMISS0",
+			"indices": []
+		},
+		{
 			"loop": true,
 			"offsets": [
 				0,
