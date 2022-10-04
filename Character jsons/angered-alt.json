@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angered ALT idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				23
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angered ALT up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-103
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angered ALT down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angered ALT left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-8
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angered ALT right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "semiCorrupt ALT idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-8
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "semiCorrupt ALT right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-103
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "semiCorrupt ALT down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-39
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "angered ALT LMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "angered ALT RMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-103
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "angered ALT DMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				23
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "angered ALT UMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-39
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "semiCorrupt ALT LMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-8
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "semiCorrupt ALT RMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-103
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "semiCorrupt ALT DMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				23
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "semiCorrupt ALT UMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "semiCorrupt ALT left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				23
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "semiCorrupt ALT up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angeredAlt_assets",
+	"position": [
+		40,
+		160
+	],
+	"healthicon": "alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

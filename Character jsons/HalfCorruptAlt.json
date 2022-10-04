@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HalfCorrupt ALT left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HalfCorrupt ALT right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HalfCorrupt ALT down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HalfCorrupt ALT up0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HalfCorrupt ALT idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HalfCorruptAlt_assets",
+	"position": [
+		-30,
+		240
+	],
+	"healthicon": "alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-20,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

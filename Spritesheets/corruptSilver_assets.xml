@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="corruptSilver_assets.png">
+<TextureAtlas imagePath="CorruptSilver_assets.png">
 	<!-- Created with Adobe Animate version 22.0.6.202 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="corruptSilver down0000" x="10" y="10" width="439" height="421" frameX="0" frameY="-52" frameWidth="447" frameHeight="473"/>
