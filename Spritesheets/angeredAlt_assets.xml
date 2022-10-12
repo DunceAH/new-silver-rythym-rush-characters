@@ -89,6 +89,7 @@
 	<SubTexture name="angered ALT idle0009" x="2220" y="681" width="435" height="630"/>
 	<SubTexture name="angered ALT idle0010" x="2665" y="681" width="435" height="630"/>
 	<SubTexture name="angered ALT idle0011" x="2665" y="681" width="435" height="630"/>
+	<SubTexture name="angered ALT idle0012" x="2665" y="681" width="435" height="630"/>
 	<SubTexture name="angered ALT left0000" x="3110" y="681" width="534" height="589" frameX="-4" frameY="0" frameWidth="538" frameHeight="589"/>
 	<SubTexture name="angered ALT left0001" x="3654" y="681" width="524" height="586" frameX="-4" frameY="-3" frameWidth="538" frameHeight="589"/>
 	<SubTexture name="angered ALT left0002" x="3654" y="681" width="524" height="586" frameX="-4" frameY="-3" frameWidth="538" frameHeight="589"/>
@@ -135,8 +136,8 @@
 	<SubTexture name="angered ALT up0013" x="464" y="1351" width="452" height="639" frameX="-17" frameY="-22" frameWidth="483" frameHeight="661"/>
 	<SubTexture name="angered ALT up0014" x="464" y="1351" width="452" height="639" frameX="-17" frameY="-22" frameWidth="483" frameHeight="661"/>
 	<SubTexture name="semiCorrupt ALT DMISS0000" x="926" y="1351" width="469" height="510" frameX="-39" frameY="-20" frameWidth="521" frameHeight="533"/>
-	<SubTexture name="semiCorrupt ALT DMISS0001" x="1405" y="1351" width="521" height="507" frameX="0" frameY="-26" frameWidth="521" frameHeight="533"/>
-	<SubTexture name="semiCorrupt ALT DMISS0002" x="1405" y="1351" width="521" height="507" frameX="0" frameY="-26" frameWidth="521" frameHeight="533"/>
+	<SubTexture name="semiCorrupt ALT DMISS0001" x="1405" y="1351" width="521" height="500" frameX="0" frameY="-33" frameWidth="521" frameHeight="533"/>
+	<SubTexture name="semiCorrupt ALT DMISS0002" x="1405" y="1351" width="521" height="500" frameX="0" frameY="-33" frameWidth="521" frameHeight="533"/>
 	<SubTexture name="semiCorrupt ALT DMISS0003" x="1936" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
 	<SubTexture name="semiCorrupt ALT DMISS0004" x="1936" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
 	<SubTexture name="semiCorrupt ALT DMISS0005" x="2416" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
@@ -149,7 +150,7 @@
 	<SubTexture name="semiCorrupt ALT DMISS0012" x="2416" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
 	<SubTexture name="semiCorrupt ALT DMISS0013" x="2416" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
 	<SubTexture name="semiCorrupt ALT DMISS0014" x="2416" y="1351" width="470" height="531" frameX="-25" frameY="0" frameWidth="521" frameHeight="533"/>
-	<SubTexture name="semiCorrupt ALT LMISS0000" x="4592" y="2033" width="539" height="599" frameX="-10" frameY="0" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT LMISS0000" x="4141" y="2033" width="539" height="599" frameX="-10" frameY="0" frameWidth="543" frameHeight="600"/>
 	<SubTexture name="semiCorrupt ALT LMISS0001" x="2896" y="1351" width="512" height="569" frameX="0" frameY="-32" frameWidth="549" frameHeight="601"/>
 	<SubTexture name="semiCorrupt ALT LMISS0002" x="2896" y="1351" width="512" height="569" frameX="0" frameY="-32" frameWidth="549" frameHeight="601"/>
 	<SubTexture name="semiCorrupt ALT LMISS0003" x="3418" y="1351" width="499" height="582" frameX="-6" frameY="-17" frameWidth="549" frameHeight="601"/>
@@ -164,7 +165,7 @@
 	<SubTexture name="semiCorrupt ALT LMISS0012" x="3927" y="1351" width="499" height="582" frameX="-6" frameY="-17" frameWidth="549" frameHeight="601"/>
 	<SubTexture name="semiCorrupt ALT LMISS0013" x="3927" y="1351" width="499" height="582" frameX="-6" frameY="-17" frameWidth="549" frameHeight="601"/>
 	<SubTexture name="semiCorrupt ALT LMISS0014" x="3927" y="1351" width="499" height="582" frameX="-6" frameY="-17" frameWidth="549" frameHeight="601"/>
-	<SubTexture name="semiCorrupt ALT RMISS0000" x="7226" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT RMISS0000" x="6775" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
 	<SubTexture name="semiCorrupt ALT RMISS0001" x="4436" y="1351" width="454" height="626" frameX="-21" frameY="-18" frameWidth="475" frameHeight="644"/>
 	<SubTexture name="semiCorrupt ALT RMISS0002" x="4436" y="1351" width="454" height="626" frameX="-21" frameY="-18" frameWidth="475" frameHeight="644"/>
 	<SubTexture name="semiCorrupt ALT RMISS0003" x="4900" y="1351" width="446" height="643" frameX="-25" frameY="0" frameWidth="475" frameHeight="644"/>
@@ -219,52 +220,49 @@
 	<SubTexture name="semiCorrupt ALT idle0007" x="3241" y="2033" width="439" height="641" frameX="-2" frameY="0" frameWidth="441" frameHeight="642"/>
 	<SubTexture name="semiCorrupt ALT idle0008" x="3690" y="2033" width="441" height="641" frameX="0" frameY="0" frameWidth="441" frameHeight="642"/>
 	<SubTexture name="semiCorrupt ALT idle0009" x="3690" y="2033" width="441" height="641" frameX="0" frameY="0" frameWidth="441" frameHeight="642"/>
-	<SubTexture name="semiCorrupt ALT idle0010" x="4141" y="2033" width="441" height="641" frameX="0" frameY="0" frameWidth="441" frameHeight="642"/>
-	<SubTexture name="semiCorrupt ALT idle0011" x="4141" y="2033" width="441" height="641" frameX="0" frameY="0" frameWidth="441" frameHeight="642"/>
-	<SubTexture name="semiCorrupt ALT idle0012" x="4141" y="2033" width="441" height="641" frameX="0" frameY="0" frameWidth="441" frameHeight="642"/>
-	<SubTexture name="semiCorrupt ALT left0000" x="4592" y="2033" width="539" height="599" frameX="-4" frameY="0" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0001" x="5141" y="2033" width="530" height="597" frameX="-3" frameY="-3" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0002" x="5141" y="2033" width="530" height="597" frameX="-3" frameY="-3" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0003" x="5681" y="2033" width="517" height="589" frameX="-1" frameY="-10" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0004" x="6208" y="2033" width="499" height="581" frameX="0" frameY="-18" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0005" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0006" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0007" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0008" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0009" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0010" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0011" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0012" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0013" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT left0014" x="6717" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
-	<SubTexture name="semiCorrupt ALT right0000" x="7226" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0001" x="7226" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0002" x="7700" y="2033" width="452" height="642" frameX="-18" frameY="-1" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0003" x="7700" y="2033" width="452" height="642" frameX="-18" frameY="-1" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0004" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0005" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0006" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0007" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0008" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0009" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0010" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0011" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0012" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0013" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
-	<SubTexture name="semiCorrupt ALT right0014" x="10" y="2685" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT left0000" x="4141" y="2033" width="539" height="599" frameX="-4" frameY="0" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0001" x="4690" y="2033" width="530" height="597" frameX="-3" frameY="-3" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0002" x="4690" y="2033" width="530" height="597" frameX="-3" frameY="-3" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0003" x="5230" y="2033" width="517" height="589" frameX="-1" frameY="-10" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0004" x="5757" y="2033" width="499" height="581" frameX="0" frameY="-18" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0005" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0006" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0007" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0008" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0009" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0010" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0011" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0012" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0013" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT left0014" x="6266" y="2033" width="499" height="582" frameX="0" frameY="-17" frameWidth="543" frameHeight="600"/>
+	<SubTexture name="semiCorrupt ALT right0000" x="6775" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0001" x="6775" y="2033" width="464" height="638" frameX="0" frameY="-5" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0002" x="7249" y="2033" width="452" height="642" frameX="-18" frameY="-1" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0003" x="7249" y="2033" width="452" height="642" frameX="-18" frameY="-1" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0004" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0005" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0006" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0007" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0008" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0009" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0010" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0011" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0012" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0013" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
+	<SubTexture name="semiCorrupt ALT right0014" x="7711" y="2033" width="446" height="643" frameX="-25" frameY="0" frameWidth="471" frameHeight="643"/>
 	<SubTexture name="semiCorrupt ALT up0000" x="5812" y="1351" width="488" height="672"/>
-	<SubTexture name="semiCorrupt ALT up0001" x="466" y="2685" width="485" height="671" frameX="-2" frameY="-1" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0002" x="466" y="2685" width="485" height="671" frameX="-2" frameY="-1" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0003" x="961" y="2685" width="473" height="663" frameX="-10" frameY="-9" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0004" x="1444" y="2685" width="449" height="647" frameX="-20" frameY="-25" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0005" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0006" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0007" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0008" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0009" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0010" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0011" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0012" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0013" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
-	<SubTexture name="semiCorrupt ALT up0014" x="1903" y="2685" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0001" x="10" y="2686" width="485" height="671" frameX="-2" frameY="-1" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0002" x="10" y="2686" width="485" height="671" frameX="-2" frameY="-1" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0003" x="505" y="2686" width="473" height="663" frameX="-10" frameY="-9" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0004" x="988" y="2686" width="449" height="647" frameX="-20" frameY="-25" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0005" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0006" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0007" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0008" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0009" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0010" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0011" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0012" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0013" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
+	<SubTexture name="semiCorrupt ALT up0014" x="1447" y="2686" width="457" height="650" frameX="-17" frameY="-22" frameWidth="488" frameHeight="672"/>
 </TextureAtlas>
