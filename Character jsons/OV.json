@@ -47,6 +47,50 @@
 		{
 			"loop": true,
 			"offsets": [
+				72,
+				6
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "OV left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-6
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "OV right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "OV down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				114,
+				32
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "OV up"
+		},
+		{
+			"loop": true,
+			"offsets": [
 				0,
 				0
 			],

@@ -45,6 +45,50 @@
 			"name": "HalfCorrupt ALT up0"
 		},
 		{
+			"loop": true,
+			"offsets": [
+				183,
+				-50
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "HalfCorrupt ALT left0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				-11
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "HalfCorrupt ALT right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-102
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "HalfCorrupt ALT down0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				20
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "HalfCorrupt ALT up0"
+		},
+		{
 			"loop": false,
 			"offsets": [
 				183,

@@ -45,6 +45,50 @@
 			"indices": []
 		},
 		{
+			"offsets": [
+				80,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Corrupt ALT left0"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Corrupt ALT right0"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Corrupt ALT down0"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"loop": true,
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Corrupt ALT up0",
+			"indices": []
+		},
+		{
 			"loop": false,
 			"offsets": [
 				80,

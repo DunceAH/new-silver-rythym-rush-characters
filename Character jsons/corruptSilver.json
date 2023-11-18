@@ -47,6 +47,50 @@
 		{
 			"loop": true,
 			"offsets": [
+				205,
+				7
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "corruptSilver left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				-5
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "corruptSilver right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				-102
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "corruptSilver down0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				94,
+				44
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "corruptSilver up0"
+		},
+		{
+			"loop": true,
+			"offsets": [
 				0,
 				0
 			],

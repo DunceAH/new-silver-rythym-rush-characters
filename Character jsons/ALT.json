@@ -47,6 +47,50 @@
 		{
 			"loop": true,
 			"offsets": [
+				50,
+				-10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "ALT left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "ALT right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "ALT down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "ALT up"
+		},
+		{
+			"loop": true,
+			"offsets": [
 				0,
 				0
 			],

@@ -47,6 +47,50 @@
 		{
 			"offsets": [
 				0,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "JET down"
+		},
+		{
+			"offsets": [
+				0,
+				38
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singU-loop",
+			"indices": [],
+			"name": "JET up"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "JET left"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "JET right"
+		},
+		{
+			"offsets": [
+				0,
 				-16
 			],
 			"loop": false,

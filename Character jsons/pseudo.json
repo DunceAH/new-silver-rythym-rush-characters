@@ -35,6 +35,39 @@
 		},
 		{
 			"offsets": [
+				66,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "PSEUDO left"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "PSEUDO up"
+		},
+		{
+			"offsets": [
+				-59,
+				-137
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "PSEUDO down"
+		},
+		{
+			"offsets": [
 				0,
 				-9
 			],
@@ -91,6 +124,17 @@
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PSEUDO right"
+		},
+		{
+			"offsets": [
+				-97,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
 			"indices": [],
 			"name": "PSEUDO right"
 		}
